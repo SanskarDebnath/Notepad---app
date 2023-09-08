@@ -1,0 +1,1 @@
+this is a asimple notepad, created by python (library : Tkinter)
